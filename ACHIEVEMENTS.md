@@ -60,3 +60,17 @@ Public profile check for [`ashswin-git`](https://github.com/ashswin-git?tab=achi
 - **Galaxy Brain**, **Starstruck**, **Sponsor**, and vault/mission badges are outside the core daily-code loop.
 
 > Status policy: only **Quickdraw** is marked verified above because it appears on the public achievements tab. Everything else stays **unknown / not claimed** until re-verified.
+
+---
+
+## Badge chase
+
+Active plan for GitHub profile achievements tied to this repo's workflow:
+
+| Badge | Plan | Notes |
+|-------|------|-------|
+| **Pull Shark** | Earn via **daily PR merge** (open a PR for each day or batch, then merge) | Primary path; sample merge on `badge-setup` proves the loop |
+| **YOLO** | Same daily PRs **self-merged without review** | Comes along for free with solo merges |
+| **Quickdraw** | **Done (practice)** — [#1](https://github.com/ashswin-git/daily-code/issues/1) opened and closed within minutes (2026-09-30 IST) | Already on profile; this run re-practiced the timing |
+
+Progress habit: keep day work on short-lived branches → PR → merge (no review required for YOLO). Avoid claiming badges here until they appear on the [achievements tab](https://github.com/ashswin-git?tab=achievements).
