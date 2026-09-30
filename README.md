@@ -11,6 +11,21 @@ Each day lives in its own folder under this monorepo. Original standalone repos 
 | 1 | [day-01-random-password-generator](./day-01-random-password-generator/) | CLI random password generator (`secrets`) |
 | 2 | [day-02-username-generator](./day-02-username-generator/) | CLI adjective/noun username generator |
 
+## Progress
+
+Track series milestones, difficulty counts, and completed day folders in [`ACHIEVEMENTS.md`](./ACHIEVEMENTS.md).
+
+**Currently done:**
+
+- [day-01-random-password-generator](./day-01-random-password-generator/)
+- [day-02-username-generator](./day-02-username-generator/)
+
+Regenerate the achievements doc after adding a day:
+
+```bash
+python3 scripts/update_achievements.py
+```
+
 ## Quick start
 
 ```bash
