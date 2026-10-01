@@ -2,16 +2,16 @@
 
 Progress tracker for the **100-day** lightweight Python series in this monorepo.
 
-> Last regenerated: 2026-09-30 (Asia/Kolkata calendar date on the box).  
+> Last regenerated: 2026-10-01 (Asia/Kolkata calendar date on the box).  
 > Tip: run `python3 scripts/update_achievements.py` after adding a new `day-*` folder.
 
 ## Series progress
 
 | Metric | Value |
 |--------|-------|
-| **Days done** | **2 / 100** |
-| **Current streak** | **2** consecutive day folders from Day 1 |
-| **Easy** | 2 |
+| **Days done** | **3 / 100** |
+| **Current streak** | **3** consecutive day folders from Day 1 |
+| **Easy** | 3 |
 | **Medium** | 0 |
 | **Hard** | 0 |
 
@@ -27,8 +27,9 @@ Progress tracker for the **100-day** lightweight Python series in this monorepo.
 
 - [x] [day-01-random-password-generator/](./day-01-random-password-generator/) — Day 1 — Random Password Generator (Easy)
 - [x] [day-02-username-generator/](./day-02-username-generator/) — Day 2 — Username Generator (Easy)
+- [x] [day-03-qr-code-generator/](./day-03-qr-code-generator/) — Day 3 — QR Code Generator (Easy)
 
-_98 days remaining (day-03 … day-100)._
+_97 days remaining (day-04 … day-100)._
 
 ---
 
@@ -78,5 +79,4 @@ Active plan for GitHub profile achievements tied to this repo's workflow:
 - PR batch 1 for Pull Shark — 2026-09-30 IST
 - PR batch 2 for Pull Shark — 2026-09-30 IST
 - PR batch 3 for Pull Shark — 2026-09-30 IST
-
-Progress habit: keep day work on short-lived branches → PR → merge (no review required for YOLO). Avoid claiming badges here until they appear on the [achievements tab](https://github.com/ashswin-git?tab=achievements).
+- Day 3 QR Code Generator PR — 2026-10-01 IST
