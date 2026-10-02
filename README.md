@@ -11,6 +11,7 @@ Each day lives in its own folder under this monorepo. Original standalone repos 
 | 1 | [day-01-random-password-generator](./day-01-random-password-generator/) | CLI random password generator (`secrets`) |
 | 2 | [day-02-username-generator](./day-02-username-generator/) | CLI adjective/noun username generator |
 | 3 | [day-03-qr-code-generator](./day-03-qr-code-generator/) | CLI QR code generator (terminal / SVG / PNG via `segno`) |
+| 4 | [day-04-unit-converter](./day-04-unit-converter/) | CLI length / mass / temperature / volume converter |
 
 ## Progress
 
@@ -21,6 +22,7 @@ Track series milestones, difficulty counts, and completed day folders in [`ACHIE
 - [day-01-random-password-generator](./day-01-random-password-generator/)
 - [day-02-username-generator](./day-02-username-generator/)
 - [day-03-qr-code-generator](./day-03-qr-code-generator/)
+- [day-04-unit-converter](./day-04-unit-converter/)
 
 Regenerate the achievements doc after adding a day:
 

@@ -2,16 +2,16 @@
 
 Progress tracker for the **100-day** lightweight Python series in this monorepo.
 
-> Last regenerated: 2026-10-01 (Asia/Kolkata calendar date on the box).  
+> Last regenerated: 2026-10-02 (Asia/Kolkata calendar date on the box).  
 > Tip: run `python3 scripts/update_achievements.py` after adding a new `day-*` folder.
 
 ## Series progress
 
 | Metric | Value |
 |--------|-------|
-| **Days done** | **3 / 100** |
-| **Current streak** | **3** consecutive day folders from Day 1 |
-| **Easy** | 3 |
+| **Days done** | **4 / 100** |
+| **Current streak** | **4** consecutive day folders from Day 1 |
+| **Easy** | 4 |
 | **Medium** | 0 |
 | **Hard** | 0 |
 
@@ -28,8 +28,9 @@ Progress tracker for the **100-day** lightweight Python series in this monorepo.
 - [x] [day-01-random-password-generator/](./day-01-random-password-generator/) — Day 1 — Random Password Generator (Easy)
 - [x] [day-02-username-generator/](./day-02-username-generator/) — Day 2 — Username Generator (Easy)
 - [x] [day-03-qr-code-generator/](./day-03-qr-code-generator/) — Day 3 — QR Code Generator (Easy)
+- [x] [day-04-unit-converter/](./day-04-unit-converter/) — Day 4 — Unit Converter (Easy)
 
-_97 days remaining (day-04 … day-100)._
+_96 days remaining (day-05 … day-100)._
 
 ---
 
@@ -61,22 +62,3 @@ Public profile check for [`ashswin-git`](https://github.com/ashswin-git?tab=achi
 - **Galaxy Brain**, **Starstruck**, **Sponsor**, and vault/mission badges are outside the core daily-code loop.
 
 > Status policy: only **Quickdraw** is marked verified above because it appears on the public achievements tab. Everything else stays **unknown / not claimed** until re-verified.
-
----
-
-## Badge chase
-
-Active plan for GitHub profile achievements tied to this repo's workflow:
-
-| Badge | Plan | Notes |
-|-------|------|-------|
-| **Pull Shark** | Earn via **daily PR merge** (open a PR for each day or batch, then merge) | Primary path; sample merge on `badge-setup` proves the loop |
-| **YOLO** | Same daily PRs **self-merged without review** | Comes along for free with solo merges |
-| **Quickdraw** | **Done (practice)** — [#1](https://github.com/ashswin-git/daily-code/issues/1) opened and closed within minutes (2026-09-30 IST) | Already on profile; this run re-practiced the timing |
-
-### Pull Shark log
-
-- PR batch 1 for Pull Shark — 2026-09-30 IST
-- PR batch 2 for Pull Shark — 2026-09-30 IST
-- PR batch 3 for Pull Shark — 2026-09-30 IST
-- Day 3 QR Code Generator PR — 2026-10-01 IST
