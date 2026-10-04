@@ -2,16 +2,16 @@
 
 Progress tracker for the **100-day** lightweight Python series in this monorepo.
 
-> Last regenerated: 2026-10-03 (Asia/Kolkata calendar date on the box).  
+> Last regenerated: 2026-10-04 (Asia/Kolkata calendar date on the box).  
 > Tip: run `python3 scripts/update_achievements.py` after adding a new `day-*` folder.
 
 ## Series progress
 
 | Metric | Value |
 |--------|-------|
-| **Days done** | **5 / 100** |
-| **Current streak** | **5** consecutive day folders from Day 1 |
-| **Easy** | 5 |
+| **Days done** | **6 / 100** |
+| **Current streak** | **6** consecutive day folders from Day 1 |
+| **Easy** | 6 |
 | **Medium** | 0 |
 | **Hard** | 0 |
 
@@ -30,8 +30,9 @@ Progress tracker for the **100-day** lightweight Python series in this monorepo.
 - [x] [day-03-qr-code-generator/](./day-03-qr-code-generator/) — Day 3 — QR Code Generator (Easy)
 - [x] [day-04-unit-converter/](./day-04-unit-converter/) — Day 4 — Unit Converter (Easy)
 - [x] [day-05-tip-calculator/](./day-05-tip-calculator/) — Day 5 — Tip Calculator (Easy)
+- [x] [day-06-bmi-calculator/](./day-06-bmi-calculator/) — Day 6 — BMI Calculator (Easy)
 
-_95 days remaining (day-06 … day-100)._
+_94 days remaining (day-07 … day-100)._
 
 ---
 
