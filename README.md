@@ -14,6 +14,7 @@ Each day lives in its own folder under this monorepo. Original standalone repos 
 | 4 | [day-04-unit-converter](./day-04-unit-converter/) | CLI length / mass / temperature / volume converter |
 | 5 | [day-05-tip-calculator](./day-05-tip-calculator/) | CLI tip calculator with split and currency |
 | 6 | [day-06-bmi-calculator](./day-06-bmi-calculator/) | CLI BMI calculator (metric / imperial, WHO categories) |
+| 7 | [day-07-age-calculator](./day-07-age-calculator/) | CLI exact age + next birthday countdown |
 
 ## Progress
 
@@ -27,6 +28,7 @@ Track series milestones, difficulty counts, and completed day folders in [`ACHIE
 - [day-04-unit-converter](./day-04-unit-converter/)
 - [day-05-tip-calculator](./day-05-tip-calculator/)
 - [day-06-bmi-calculator](./day-06-bmi-calculator/)
+- [day-07-age-calculator](./day-07-age-calculator/)
 
 Regenerate the achievements doc after adding a day:
 
