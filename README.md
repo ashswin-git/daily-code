@@ -15,6 +15,7 @@ Each day lives in its own folder under this monorepo. Original standalone repos 
 | 5 | [day-05-tip-calculator](./day-05-tip-calculator/) | CLI tip calculator with split and currency |
 | 6 | [day-06-bmi-calculator](./day-06-bmi-calculator/) | CLI BMI calculator (metric / imperial, WHO categories) |
 | 7 | [day-07-age-calculator](./day-07-age-calculator/) | CLI exact age + next birthday countdown |
+| 8 | [day-08-dice-roller](./day-08-dice-roller/) | CLI tabletop dice roller (`2d6+3`, keep highest, advantage) |
 
 ## Progress
 
@@ -29,6 +30,7 @@ Track series milestones, difficulty counts, and completed day folders in [`ACHIE
 - [day-05-tip-calculator](./day-05-tip-calculator/)
 - [day-06-bmi-calculator](./day-06-bmi-calculator/)
 - [day-07-age-calculator](./day-07-age-calculator/)
+- [day-08-dice-roller](./day-08-dice-roller/)
 
 Regenerate the achievements doc after adding a day:
 
