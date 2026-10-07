@@ -16,6 +16,7 @@ Each day lives in its own folder under this monorepo. Original standalone repos 
 | 6 | [day-06-bmi-calculator](./day-06-bmi-calculator/) | CLI BMI calculator (metric / imperial, WHO categories) |
 | 7 | [day-07-age-calculator](./day-07-age-calculator/) | CLI exact age + next birthday countdown |
 | 8 | [day-08-dice-roller](./day-08-dice-roller/) | CLI tabletop dice roller (`2d6+3`, keep highest, advantage) |
+| 9 | [day-09-url-shortener](./day-09-url-shortener/) | CLI URL shortener + link expander (TinyURL / is.gd, no API key) |
 
 ## Progress
 
@@ -31,6 +32,7 @@ Track series milestones, difficulty counts, and completed day folders in [`ACHIE
 - [day-06-bmi-calculator](./day-06-bmi-calculator/)
 - [day-07-age-calculator](./day-07-age-calculator/)
 - [day-08-dice-roller](./day-08-dice-roller/)
+- [day-09-url-shortener](./day-09-url-shortener/)
 
 Regenerate the achievements doc after adding a day:
 
