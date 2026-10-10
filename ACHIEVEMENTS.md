@@ -2,16 +2,16 @@
 
 Progress tracker for the **100-day** lightweight Python series in this monorepo.
 
-> Last regenerated: 2026-10-09 (Asia/Kolkata calendar date on the box).  
+> Last regenerated: 2026-10-10 (Asia/Kolkata calendar date on the box).  
 > Tip: run `python3 scripts/update_achievements.py` after adding a new `day-*` folder.
 
 ## Series progress
 
 | Metric | Value |
 |--------|-------|
-| **Days done** | **11 / 100** |
-| **Current streak** | **11** consecutive day folders from Day 1 |
-| **Easy** | 11 |
+| **Days done** | **12 / 100** |
+| **Current streak** | **12** consecutive day folders from Day 1 |
+| **Easy** | 12 |
 | **Medium** | 0 |
 | **Hard** | 0 |
 
@@ -36,8 +36,9 @@ Progress tracker for the **100-day** lightweight Python series in this monorepo.
 - [x] [day-09-url-shortener/](./day-09-url-shortener/) — Day 9 — URL Shortener (Easy)
 - [x] [day-10-word-counter/](./day-10-word-counter/) — Day 10 — Word Counter (Easy)
 - [x] [day-11-character-counter/](./day-11-character-counter/) — Day 11 — Character Counter (Easy)
+- [x] [day-12-text-case-converter/](./day-12-text-case-converter/) — Day 12 — Text Case Converter (Easy)
 
-_89 days remaining (day-12 … day-100)._
+_88 days remaining (day-13 … day-100)._
 
 ---
 

@@ -19,6 +19,7 @@ Each day lives in its own folder under this monorepo. Original standalone repos 
 | 9 | [day-09-url-shortener](./day-09-url-shortener/) | CLI URL shortener + link expander (TinyURL / is.gd, no API key) |
 | 10 | [day-10-word-counter](./day-10-word-counter/) | CLI word counter with reading time + top-words chart |
 | 11 | [day-11-character-counter](./day-11-character-counter/) | CLI character counter by type + frequency chart |
+| 12 | [day-12-text-case-converter](./day-12-text-case-converter/) | CLI text case converter (snake, camel, title, kebab and more) |
 
 ## Progress
 
@@ -37,6 +38,7 @@ Track series milestones, difficulty counts, and completed day folders in [`ACHIE
 - [day-09-url-shortener](./day-09-url-shortener/)
 - [day-10-word-counter](./day-10-word-counter/)
 - [day-11-character-counter](./day-11-character-counter/)
+- [day-12-text-case-converter](./day-12-text-case-converter/)
 
 Regenerate the achievements doc after adding a day:
 
