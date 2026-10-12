@@ -20,6 +20,8 @@ Each day lives in its own folder under this monorepo. Original standalone repos 
 | 10 | [day-10-word-counter](./day-10-word-counter/) | CLI word counter with reading time + top-words chart |
 | 11 | [day-11-character-counter](./day-11-character-counter/) | CLI character counter by type + frequency chart |
 | 12 | [day-12-text-case-converter](./day-12-text-case-converter/) | CLI text case converter (snake, camel, title, kebab and more) |
+| 13 | [day-13-json-formatter](./day-13-json-formatter/) | CLI JSON formatter + validator with friendly errors |
+| 14 | [day-14-json-minifier](./day-14-json-minifier/) | CLI JSON minifier that reports bytes saved |
 
 ## Progress
 
@@ -39,6 +41,8 @@ Track series milestones, difficulty counts, and completed day folders in [`ACHIE
 - [day-10-word-counter](./day-10-word-counter/)
 - [day-11-character-counter](./day-11-character-counter/)
 - [day-12-text-case-converter](./day-12-text-case-converter/)
+- [day-13-json-formatter](./day-13-json-formatter/)
+- [day-14-json-minifier](./day-14-json-minifier/)
 
 Regenerate the achievements doc after adding a day:
 
