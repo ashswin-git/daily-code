@@ -23,6 +23,7 @@ Each day lives in its own folder under this monorepo. Original standalone repos 
 | 13 | [day-13-json-formatter](./day-13-json-formatter/) | CLI JSON formatter + validator with friendly errors |
 | 14 | [day-14-json-minifier](./day-14-json-minifier/) | CLI JSON minifier that reports bytes saved |
 | 15 | [day-15-base64-encoder-decoder](./day-15-base64-encoder-decoder/) | CLI Base64 encoder/decoder (URL-safe, files, binary-safe) |
+| 16 | [day-16-url-encoder-decoder](./day-16-url-encoder-decoder/) | CLI URL encoder/decoder + URL inspector |
 
 ## Progress
 
@@ -45,6 +46,7 @@ Track series milestones, difficulty counts, and completed day folders in [`ACHIE
 - [day-13-json-formatter](./day-13-json-formatter/)
 - [day-14-json-minifier](./day-14-json-minifier/)
 - [day-15-base64-encoder-decoder](./day-15-base64-encoder-decoder/)
+- [day-16-url-encoder-decoder](./day-16-url-encoder-decoder/)
 
 Regenerate the achievements doc after adding a day:
 
