@@ -2,16 +2,16 @@
 
 Progress tracker for the **100-day** lightweight Python series in this monorepo.
 
-> Last regenerated: 2026-10-13 (Asia/Kolkata calendar date on the box).  
+> Last regenerated: 2026-10-14 (Asia/Kolkata calendar date on the box).  
 > Tip: run `python3 scripts/update_achievements.py` after adding a new `day-*` folder.
 
 ## Series progress
 
 | Metric | Value |
 |--------|-------|
-| **Days done** | **15 / 100** |
-| **Current streak** | **15** consecutive day folders from Day 1 |
-| **Easy** | 15 |
+| **Days done** | **16 / 100** |
+| **Current streak** | **16** consecutive day folders from Day 1 |
+| **Easy** | 16 |
 | **Medium** | 0 |
 | **Hard** | 0 |
 
@@ -40,8 +40,9 @@ Progress tracker for the **100-day** lightweight Python series in this monorepo.
 - [x] [day-13-json-formatter/](./day-13-json-formatter/) — Day 13 — JSON Formatter (Easy)
 - [x] [day-14-json-minifier/](./day-14-json-minifier/) — Day 14 — JSON Minifier (Easy)
 - [x] [day-15-base64-encoder-decoder/](./day-15-base64-encoder-decoder/) — Day 15 — Base64 Encoder/Decoder (Easy)
+- [x] [day-16-url-encoder-decoder/](./day-16-url-encoder-decoder/) — Day 16 — URL Encoder/Decoder (Easy)
 
-_85 days remaining (day-16 … day-100)._
+_84 days remaining (day-17 … day-100)._
 
 ---
 
