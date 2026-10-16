@@ -25,6 +25,7 @@ Each day lives in its own folder under this monorepo. Original standalone repos 
 | 15 | [day-15-base64-encoder-decoder](./day-15-base64-encoder-decoder/) | CLI Base64 encoder/decoder (URL-safe, files, binary-safe) |
 | 16 | [day-16-url-encoder-decoder](./day-16-url-encoder-decoder/) | CLI URL encoder/decoder + URL inspector |
 | 17 | [day-17-uuid-generator](./day-17-uuid-generator/) | CLI UUID generator (v1/v3/v4/v5/v7) + UUID inspector |
+| 18 | [day-18-random-number-generator](./day-18-random-number-generator/) | CLI random number generator (int/float/unique/secure/gauss) |
 
 ## Progress
 
@@ -49,6 +50,7 @@ Track series milestones, difficulty counts, and completed day folders in [`ACHIE
 - [day-15-base64-encoder-decoder](./day-15-base64-encoder-decoder/)
 - [day-16-url-encoder-decoder](./day-16-url-encoder-decoder/)
 - [day-17-uuid-generator](./day-17-uuid-generator/)
+- [day-18-random-number-generator](./day-18-random-number-generator/)
 
 Regenerate the achievements doc after adding a day:
 
