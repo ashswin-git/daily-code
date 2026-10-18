@@ -2,16 +2,16 @@
 
 Progress tracker for the **100-day** lightweight Python series in this monorepo.
 
-> Last regenerated: 2026-10-17 (Asia/Kolkata calendar date on the box).  
+> Last regenerated: 2026-10-18 (Asia/Kolkata calendar date on the box).  
 > Tip: run `python3 scripts/update_achievements.py` after adding a new `day-*` folder.
 
 ## Series progress
 
 | Metric | Value |
 |--------|-------|
-| **Days done** | **19 / 100** |
-| **Current streak** | **19** consecutive day folders from Day 1 |
-| **Easy** | 19 |
+| **Days done** | **20 / 100** |
+| **Current streak** | **20** consecutive day folders from Day 1 |
+| **Easy** | 20 |
 | **Medium** | 0 |
 | **Hard** | 0 |
 
@@ -44,8 +44,9 @@ Progress tracker for the **100-day** lightweight Python series in this monorepo.
 - [x] [day-17-uuid-generator/](./day-17-uuid-generator/) — Day 17 — UUID Generator (Easy)
 - [x] [day-18-random-number-generator/](./day-18-random-number-generator/) — Day 18 — Random Number Generator (Easy)
 - [x] [day-19-random-quote-generator/](./day-19-random-quote-generator/) — Day 19 — Random Quote Generator (Easy)
+- [x] [day-20-fake-data-generator/](./day-20-fake-data-generator/) — Day 20 — Fake Data Generator (Easy)
 
-_81 days remaining (day-20 … day-100)._
+_80 days remaining (day-21 … day-100)._
 
 ---
 
