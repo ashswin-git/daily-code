@@ -28,6 +28,7 @@ Each day lives in its own folder under this monorepo. Original standalone repos 
 | 18 | [day-18-random-number-generator](./day-18-random-number-generator/) | CLI random number generator (int/float/unique/secure/gauss) |
 | 19 | [day-19-random-quote-generator](./day-19-random-quote-generator/) | CLI random quote generator (offline + free ZenQuotes API, quote of the day) |
 | 20 | [day-20-fake-data-generator](./day-20-fake-data-generator/) | CLI fake test data generator (people/users/orders as table, JSON, CSV) |
+| 21 | [day-21-email-validator](./day-21-email-validator/) | CLI email validator (syntax, typo hints, disposable/role flags, DNS check) |
 
 ## Progress
 
@@ -55,6 +56,7 @@ Track series milestones, difficulty counts, and completed day folders in [`ACHIE
 - [day-18-random-number-generator](./day-18-random-number-generator/)
 - [day-19-random-quote-generator](./day-19-random-quote-generator/)
 - [day-20-fake-data-generator](./day-20-fake-data-generator/)
+- [day-21-email-validator](./day-21-email-validator/)
 
 Regenerate the achievements doc after adding a day:
 
