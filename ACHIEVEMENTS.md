@@ -2,16 +2,16 @@
 
 Progress tracker for the **100-day** lightweight Python series in this monorepo.
 
-> Last regenerated: 2026-10-20 (Asia/Kolkata calendar date on the box).  
+> Last regenerated: 2026-10-21 (Asia/Kolkata calendar date on the box).  
 > Tip: run `python3 scripts/update_achievements.py` after adding a new `day-*` folder.
 
 ## Series progress
 
 | Metric | Value |
 |--------|-------|
-| **Days done** | **22 / 100** |
-| **Current streak** | **22** consecutive day folders from Day 1 |
-| **Easy** | 22 |
+| **Days done** | **23 / 100** |
+| **Current streak** | **23** consecutive day folders from Day 1 |
+| **Easy** | 23 |
 | **Medium** | 0 |
 | **Hard** | 0 |
 
@@ -47,8 +47,9 @@ Progress tracker for the **100-day** lightweight Python series in this monorepo.
 - [x] [day-20-fake-data-generator/](./day-20-fake-data-generator/) — Day 20 — Fake Data Generator (Easy)
 - [x] [day-21-email-validator/](./day-21-email-validator/) — Day 21 — Email Validator (Easy)
 - [x] [day-22-phone-number-validator/](./day-22-phone-number-validator/) — Day 22 — Phone Number Validator (Easy)
+- [x] [day-23-ip-address-checker/](./day-23-ip-address-checker/) — Day 23 — IP Address Checker (Easy)
 
-_78 days remaining (day-23 … day-100)._
+_77 days remaining (day-24 … day-100)._
 
 ---
 

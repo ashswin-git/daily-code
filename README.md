@@ -30,6 +30,7 @@ Each day lives in its own folder under this monorepo. Original standalone repos 
 | 20 | [day-20-fake-data-generator](./day-20-fake-data-generator/) | CLI fake test data generator (people/users/orders as table, JSON, CSV) |
 | 21 | [day-21-email-validator](./day-21-email-validator/) | CLI email validator (syntax, typo hints, disposable/role flags, DNS check) |
 | 22 | [day-22-phone-number-validator](./day-22-phone-number-validator/) | Offline CLI phone number validator (country detection, E.164 + national format) |
+| 23 | [day-23-ip-address-checker](./day-23-ip-address-checker/) | CLI IP address checker (IPv4/IPv6 type, subnet calculator, rDNS, free geo lookup) |
 
 ## Progress
 
@@ -59,6 +60,7 @@ Track series milestones, difficulty counts, and completed day folders in [`ACHIE
 - [day-20-fake-data-generator](./day-20-fake-data-generator/)
 - [day-21-email-validator](./day-21-email-validator/)
 - [day-22-phone-number-validator](./day-22-phone-number-validator/)
+- [day-23-ip-address-checker](./day-23-ip-address-checker/)
 
 Regenerate the achievements doc after adding a day:
 
