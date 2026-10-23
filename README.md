@@ -32,6 +32,7 @@ Each day lives in its own folder under this monorepo. Original standalone repos 
 | 22 | [day-22-phone-number-validator](./day-22-phone-number-validator/) | Offline CLI phone number validator (country detection, E.164 + national format) |
 | 23 | [day-23-ip-address-checker](./day-23-ip-address-checker/) | CLI IP address checker (IPv4/IPv6 type, subnet calculator, rDNS, free geo lookup) |
 | 24 | [day-24-port-checker](./day-24-port-checker/) | CLI TCP port checker (lists, ranges, common preset, parallel scan, JSON) |
+| 25 | [day-25-website-status-checker](./day-25-website-status-checker/) | CLI website uptime checker (status, latency, redirects, title, JSON) |
 
 ## Progress
 
@@ -63,6 +64,7 @@ Track series milestones, difficulty counts, and completed day folders in [`ACHIE
 - [day-22-phone-number-validator](./day-22-phone-number-validator/)
 - [day-23-ip-address-checker](./day-23-ip-address-checker/)
 - [day-24-port-checker](./day-24-port-checker/)
+- [day-25-website-status-checker](./day-25-website-status-checker/)
 
 Regenerate the achievements doc after adding a day:
 
