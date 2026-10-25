@@ -34,6 +34,7 @@ Each day lives in its own folder under this monorepo. Original standalone repos 
 | 24 | [day-24-port-checker](./day-24-port-checker/) | CLI TCP port checker (lists, ranges, common preset, parallel scan, JSON) |
 | 25 | [day-25-website-status-checker](./day-25-website-status-checker/) | CLI website uptime checker (status, latency, redirects, title, JSON) |
 | 26 | [day-26-file-extension-finder](./day-26-file-extension-finder/) | Folder scanner that summarizes file extensions (counts, sizes, categories) or lists files by extension |
+| 27 | [day-27-file-size-calculator](./day-27-file-size-calculator/) | File size CLI with totals, KB/KiB unit conversion and download-time estimates |
 
 ## Progress
 
@@ -67,6 +68,7 @@ Track series milestones, difficulty counts, and completed day folders in [`ACHIE
 - [day-24-port-checker](./day-24-port-checker/)
 - [day-25-website-status-checker](./day-25-website-status-checker/)
 - [day-26-file-extension-finder](./day-26-file-extension-finder/)
+- [day-27-file-size-calculator](./day-27-file-size-calculator/)
 
 Regenerate the achievements doc after adding a day:
 
