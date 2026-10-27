@@ -36,6 +36,7 @@ Each day lives in its own folder under this monorepo. Original standalone repos 
 | 26 | [day-26-file-extension-finder](./day-26-file-extension-finder/) | Folder scanner that summarizes file extensions (counts, sizes, categories) or lists files by extension |
 | 27 | [day-27-file-size-calculator](./day-27-file-size-calculator/) | File size CLI with totals, KB/KiB unit conversion and download-time estimates |
 | 28 | [day-28-folder-size-calculator](./day-28-folder-size-calculator/) | Mini du: folder total, largest-first breakdown, biggest files and space by file type |
+| 29 | [day-29-duplicate-file-finder](./day-29-duplicate-file-finder/) | Finds identical files by size + SHA-256, shows wasted space, optional safe delete |
 
 ## Progress
 
@@ -71,6 +72,7 @@ Track series milestones, difficulty counts, and completed day folders in [`ACHIE
 - [day-26-file-extension-finder](./day-26-file-extension-finder/)
 - [day-27-file-size-calculator](./day-27-file-size-calculator/)
 - [day-28-folder-size-calculator](./day-28-folder-size-calculator/)
+- [day-29-duplicate-file-finder](./day-29-duplicate-file-finder/)
 
 Regenerate the achievements doc after adding a day:
 
