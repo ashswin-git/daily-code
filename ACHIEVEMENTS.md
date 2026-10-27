@@ -2,16 +2,16 @@
 
 Progress tracker for the **100-day** lightweight Python series in this monorepo.
 
-> Last regenerated: 2026-10-26 (Asia/Kolkata calendar date on the box).  
+> Last regenerated: 2026-10-27 (Asia/Kolkata calendar date on the box).  
 > Tip: run `python3 scripts/update_achievements.py` after adding a new `day-*` folder.
 
 ## Series progress
 
 | Metric | Value |
 |--------|-------|
-| **Days done** | **28 / 100** |
-| **Current streak** | **28** consecutive day folders from Day 1 |
-| **Easy** | 28 |
+| **Days done** | **29 / 100** |
+| **Current streak** | **29** consecutive day folders from Day 1 |
+| **Easy** | 29 |
 | **Medium** | 0 |
 | **Hard** | 0 |
 
@@ -53,8 +53,9 @@ Progress tracker for the **100-day** lightweight Python series in this monorepo.
 - [x] [day-26-file-extension-finder/](./day-26-file-extension-finder/) — Day 26 — File Extension Finder (Easy)
 - [x] [day-27-file-size-calculator/](./day-27-file-size-calculator/) — Day 27 — File Size Calculator (Easy)
 - [x] [day-28-folder-size-calculator/](./day-28-folder-size-calculator/) — Day 28 — Folder Size Calculator (Easy)
+- [x] [day-29-duplicate-file-finder/](./day-29-duplicate-file-finder/) — Day 29 — Duplicate File Finder (Easy)
 
-_72 days remaining (day-29 … day-100)._
+_71 days remaining (day-30 … day-100)._
 
 ---
 
