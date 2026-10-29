@@ -38,6 +38,7 @@ Each day lives in its own folder under this monorepo. Original standalone repos 
 | 28 | [day-28-folder-size-calculator](./day-28-folder-size-calculator/) | Mini du: folder total, largest-first breakdown, biggest files and space by file type |
 | 29 | [day-29-duplicate-file-finder](./day-29-duplicate-file-finder/) | Finds identical files by size + SHA-256, shows wasted space, optional safe delete |
 | 30 | [day-30-file-renamer](./day-30-file-renamer/) | Bulk renamer: find/replace, regex, case styles, numbering, dates, preview + undo |
+| 31 | [day-31-file-organizer](./day-31-file-organizer/) | Sort a folder into subfolders by type, extension or month, preview + undo |
 
 ## Progress
 
@@ -75,6 +76,7 @@ Track series milestones, difficulty counts, and completed day folders in [`ACHIE
 - [day-28-folder-size-calculator](./day-28-folder-size-calculator/)
 - [day-29-duplicate-file-finder](./day-29-duplicate-file-finder/)
 - [day-30-file-renamer](./day-30-file-renamer/)
+- [day-31-file-organizer](./day-31-file-organizer/)
 
 Regenerate the achievements doc after adding a day:
 
