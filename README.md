@@ -40,6 +40,7 @@ Each day lives in its own folder under this monorepo. Original standalone repos 
 | 30 | [day-30-file-renamer](./day-30-file-renamer/) | Bulk renamer: find/replace, regex, case styles, numbering, dates, preview + undo |
 | 31 | [day-31-file-organizer](./day-31-file-organizer/) | Sort a folder into subfolders by type, extension or month, preview + undo |
 | 32 | [day-32-text-file-search-tool](./day-32-text-file-search-tool/) | Mini grep: search files or folders by text, word or regex with context and filters |
+| 33 | [day-33-txt-to-json-converter](./day-33-txt-to-json-converter/) | Turn text files into JSON: lines, key/value, tables or paragraphs with auto-detect |
 
 ## Progress
 
@@ -79,6 +80,7 @@ Track series milestones, difficulty counts, and completed day folders in [`ACHIE
 - [day-30-file-renamer](./day-30-file-renamer/)
 - [day-31-file-organizer](./day-31-file-organizer/)
 - [day-32-text-file-search-tool](./day-32-text-file-search-tool/)
+- [day-33-txt-to-json-converter](./day-33-txt-to-json-converter/)
 
 Regenerate the achievements doc after adding a day:
 
