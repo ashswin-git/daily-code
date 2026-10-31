@@ -1,8 +1,26 @@
 # daily-code
 
+![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
+![Days](https://img.shields.io/badge/progress-33%2F100-brightgreen)
+
 100 days of small, self-contained Python projects.
 
 Each day lives in its own folder under this monorepo. Original standalone repos may still exist for history; this repo is the consolidated home going forward.
+
+## Features
+
+- One small, runnable command-line project per day, each in its own `day-NN-name` folder
+- Every day ships with its own README, usage examples and `--help`
+- Mostly zero-dependency: standard library only unless a day says otherwise
+- Milestones tracked automatically in [`ACHIEVEMENTS.md`](./ACHIEVEMENTS.md)
+
+## Built with
+
+- **Language:** Python 3.10+
+- **Standard library:** `argparse`, `pathlib`, `json`, `re`, `urllib`, `secrets`, `hashlib`, `csv`, `socket`, `concurrent.futures`, `datetime` and more
+- **Third-party:** [`segno`](https://pypi.org/project/segno/) (Day 3 QR code generator only)
+- **Free public APIs (no key):** TinyURL / is.gd (Day 9), ZenQuotes (Day 19)
+- **Workflow:** Git + GitHub pull requests, one PR per day
 
 ## Days
 
