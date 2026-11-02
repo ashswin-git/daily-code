@@ -1,7 +1,7 @@
 # daily-code
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
-![Days](https://img.shields.io/badge/progress-34%2F100-brightgreen)
+![Days](https://img.shields.io/badge/progress-35%2F100-brightgreen)
 
 100 days of small, self-contained Python projects.
 
@@ -60,6 +60,7 @@ Each day lives in its own folder under this monorepo. Original standalone repos 
 | 32 | [day-32-text-file-search-tool](./day-32-text-file-search-tool/) | Mini grep: search files or folders by text, word or regex with context and filters |
 | 33 | [day-33-txt-to-json-converter](./day-33-txt-to-json-converter/) | Turn text files into JSON: lines, key/value, tables or paragraphs with auto-detect |
 | 34 | [day-34-csv-to-json-converter](./day-34-csv-to-json-converter/) | CSV to JSON as objects, arrays, keyed map or JSON Lines, with types and nesting |
+| 35 | [day-35-json-to-csv-converter](./day-35-json-to-csv-converter/) | JSON or JSON Lines to CSV with flattening, column picking and custom delimiters |
 
 ## Progress
 
@@ -101,6 +102,7 @@ Track series milestones, difficulty counts, and completed day folders in [`ACHIE
 - [day-32-text-file-search-tool](./day-32-text-file-search-tool/)
 - [day-33-txt-to-json-converter](./day-33-txt-to-json-converter/)
 - [day-34-csv-to-json-converter](./day-34-csv-to-json-converter/)
+- [day-35-json-to-csv-converter](./day-35-json-to-csv-converter/)
 
 Regenerate the achievements doc after adding a day:
 
