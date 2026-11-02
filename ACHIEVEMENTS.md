@@ -2,16 +2,16 @@
 
 Progress tracker for the **100-day** lightweight Python series in this monorepo.
 
-> Last regenerated: 2026-11-01 (Asia/Kolkata calendar date on the box).  
+> Last regenerated: 2026-11-02 (Asia/Kolkata calendar date on the box).  
 > Tip: run `python3 scripts/update_achievements.py` after adding a new `day-*` folder.
 
 ## Series progress
 
 | Metric | Value |
 |--------|-------|
-| **Days done** | **34 / 100** |
-| **Current streak** | **34** consecutive day folders from Day 1 |
-| **Easy** | 34 |
+| **Days done** | **35 / 100** |
+| **Current streak** | **35** consecutive day folders from Day 1 |
+| **Easy** | 35 |
 | **Medium** | 0 |
 | **Hard** | 0 |
 
@@ -59,8 +59,9 @@ Progress tracker for the **100-day** lightweight Python series in this monorepo.
 - [x] [day-32-text-file-search-tool/](./day-32-text-file-search-tool/) — Day 32 — Text File Search Tool (Easy)
 - [x] [day-33-txt-to-json-converter/](./day-33-txt-to-json-converter/) — Day 33 — TXT to JSON Converter (Easy)
 - [x] [day-34-csv-to-json-converter/](./day-34-csv-to-json-converter/) — Day 34 — CSV to JSON Converter (Easy)
+- [x] [day-35-json-to-csv-converter/](./day-35-json-to-csv-converter/) — Day 35 — JSON to CSV Converter (Easy)
 
-_66 days remaining (day-35 … day-100)._
+_65 days remaining (day-36 … day-100)._
 
 ---
 
