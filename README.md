@@ -1,7 +1,7 @@
 # daily-code
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
-![Days](https://img.shields.io/badge/progress-36%2F100-brightgreen)
+![Days](https://img.shields.io/badge/progress-37%2F100-brightgreen)
 
 100 days of small, self-contained Python projects.
 
@@ -62,6 +62,7 @@ Each day lives in its own folder under this monorepo. Original standalone repos 
 | 34 | [day-34-csv-to-json-converter](./day-34-csv-to-json-converter/) | CSV to JSON as objects, arrays, keyed map or JSON Lines, with types and nesting |
 | 35 | [day-35-json-to-csv-converter](./day-35-json-to-csv-converter/) | JSON or JSON Lines to CSV with flattening, column picking and custom delimiters |
 | 36 | [day-36-markdown-to-html-converter](./day-36-markdown-to-html-converter/) | Markdown to HTML fragments or styled pages with lists, tables and code blocks |
+| 37 | [day-37-html-to-text-converter](./day-37-html-to-text-converter/) | HTML to clean plain text with lists, quotes, tables, numbered links and wrapping |
 
 ## Progress
 
@@ -105,6 +106,7 @@ Track series milestones, difficulty counts, and completed day folders in [`ACHIE
 - [day-34-csv-to-json-converter](./day-34-csv-to-json-converter/)
 - [day-35-json-to-csv-converter](./day-35-json-to-csv-converter/)
 - [day-36-markdown-to-html-converter](./day-36-markdown-to-html-converter/)
+- [day-37-html-to-text-converter](./day-37-html-to-text-converter/)
 
 Regenerate the achievements doc after adding a day:
 
