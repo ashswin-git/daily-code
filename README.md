@@ -1,7 +1,7 @@
 # daily-code
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
-![Days](https://img.shields.io/badge/progress-38%2F100-brightgreen)
+![Days](https://img.shields.io/badge/progress-39%2F100-brightgreen)
 
 100 days of small, self-contained Python projects.
 
@@ -64,6 +64,7 @@ Each day lives in its own folder under this monorepo. Original standalone repos 
 | 36 | [day-36-markdown-to-html-converter](./day-36-markdown-to-html-converter/) | Markdown to HTML fragments or styled pages with lists, tables and code blocks |
 | 37 | [day-37-html-to-text-converter](./day-37-html-to-text-converter/) | HTML to clean plain text with lists, quotes, tables, numbered links and wrapping |
 | 38 | [day-38-hex-rgb-color-converter](./day-38-hex-rgb-color-converter/) | HEX / RGB / HSL color converter with swatch, contrast check and named-color hints |
+| 39 | [day-39-color-palette-generator](./day-39-color-palette-generator/) | Color palette generator (harmonies, shades/tints, CSS variables, JSON) |
 
 ## Progress
 
@@ -109,6 +110,7 @@ Track series milestones, difficulty counts, and completed day folders in [`ACHIE
 - [day-36-markdown-to-html-converter](./day-36-markdown-to-html-converter/)
 - [day-37-html-to-text-converter](./day-37-html-to-text-converter/)
 - [day-38-hex-rgb-color-converter](./day-38-hex-rgb-color-converter/)
+- [day-39-color-palette-generator](./day-39-color-palette-generator/)
 
 Regenerate the achievements doc after adding a day:
 
