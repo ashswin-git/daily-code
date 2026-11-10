@@ -2,16 +2,16 @@
 
 Progress tracker for the **100-day** lightweight Python series in this monorepo.
 
-> Last regenerated: 2026-11-09 (Asia/Kolkata calendar date on the box).  
+> Last regenerated: 2026-11-10 (Asia/Kolkata calendar date on the box).  
 > Tip: run `python3 scripts/update_achievements.py` after adding a new `day-*` folder.
 
 ## Series progress
 
 | Metric | Value |
 |--------|-------|
-| **Days done** | **40 / 100** |
-| **Current streak** | **40** consecutive day folders from Day 1 |
-| **Easy** | 40 |
+| **Days done** | **41 / 100** |
+| **Current streak** | **41** consecutive day folders from Day 1 |
+| **Easy** | 41 |
 | **Medium** | 0 |
 | **Hard** | 0 |
 
@@ -65,8 +65,9 @@ Progress tracker for the **100-day** lightweight Python series in this monorepo.
 - [x] [day-38-hex-rgb-color-converter/](./day-38-hex-rgb-color-converter/) — Day 38 — HEX/RGB Color Converter (Easy)
 - [x] [day-39-color-palette-generator/](./day-39-color-palette-generator/) — Day 39 — Color Palette Generator (Easy)
 - [x] [day-40-stopwatch/](./day-40-stopwatch/) — Day 40 — Stopwatch (Easy)
+- [x] [day-41-countdown-timer/](./day-41-countdown-timer/) — Day 41 — Countdown Timer (Easy)
 
-_60 days remaining (day-41 … day-100)._
+_59 days remaining (day-42 … day-100)._
 
 ---
 
