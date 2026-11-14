@@ -2,16 +2,16 @@
 
 Progress tracker for the **100-day** lightweight Python series in this monorepo.
 
-> Last regenerated: 2026-11-13 (Asia/Kolkata calendar date on the box).  
+> Last regenerated: 2026-11-14 (Asia/Kolkata calendar date on the box).  
 > Tip: run `python3 scripts/update_achievements.py` after adding a new `day-*` folder.
 
 ## Series progress
 
 | Metric | Value |
 |--------|-------|
-| **Days done** | **44 / 100** |
-| **Current streak** | **44** consecutive day folders from Day 1 |
-| **Easy** | 44 |
+| **Days done** | **45 / 100** |
+| **Current streak** | **45** consecutive day folders from Day 1 |
+| **Easy** | 45 |
 | **Medium** | 0 |
 | **Hard** | 0 |
 
@@ -69,8 +69,9 @@ Progress tracker for the **100-day** lightweight Python series in this monorepo.
 - [x] [day-42-pomodoro-timer/](./day-42-pomodoro-timer/) — Day 42 — Pomodoro Timer (Easy)
 - [x] [day-43-digital-clock/](./day-43-digital-clock/) — Day 43: Digital Clock (Easy)
 - [x] [day-44-currency-converter/](./day-44-currency-converter/) — Day 44: Currency Converter (Easy)
+- [x] [day-45-simple-calculator/](./day-45-simple-calculator/) — Day 45: Simple Calculator (Easy)
 
-_56 days remaining (day-45 … day-100)._
+_55 days remaining (day-46 … day-100)._
 
 ---
 
