@@ -2,16 +2,16 @@
 
 Progress tracker for the **100-day** lightweight Python series in this monorepo.
 
-> Last regenerated: 2026-11-16 (Asia/Kolkata calendar date on the box).  
+> Last regenerated: 2026-11-17 (Asia/Kolkata calendar date on the box).  
 > Tip: run `python3 scripts/update_achievements.py` after adding a new `day-*` folder.
 
 ## Series progress
 
 | Metric | Value |
 |--------|-------|
-| **Days done** | **47 / 100** |
-| **Current streak** | **47** consecutive day folders from Day 1 |
-| **Easy** | 47 |
+| **Days done** | **48 / 100** |
+| **Current streak** | **48** consecutive day folders from Day 1 |
+| **Easy** | 48 |
 | **Medium** | 0 |
 | **Hard** | 0 |
 
@@ -72,8 +72,9 @@ Progress tracker for the **100-day** lightweight Python series in this monorepo.
 - [x] [day-45-simple-calculator/](./day-45-simple-calculator/) — Day 45: Simple Calculator (Easy)
 - [x] [day-46-scientific-calculator/](./day-46-scientific-calculator/) — Day 46: Scientific Calculator (Easy)
 - [x] [day-47-percentage-calculator/](./day-47-percentage-calculator/) — Day 47: Percentage Calculator (Easy)
+- [x] [day-48-emi-calculator/](./day-48-emi-calculator/) — Day 48: EMI Calculator (Easy)
 
-_53 days remaining (day-48 … day-100)._
+_52 days remaining (day-49 … day-100)._
 
 ---
 
