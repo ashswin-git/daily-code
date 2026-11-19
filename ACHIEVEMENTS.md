@@ -2,16 +2,16 @@
 
 Progress tracker for the **100-day** lightweight Python series in this monorepo.
 
-> Last regenerated: 2026-11-18 (Asia/Kolkata calendar date on the box).  
+> Last regenerated: 2026-11-19 (Asia/Kolkata calendar date on the box).  
 > Tip: run `python3 scripts/update_achievements.py` after adding a new `day-*` folder.
 
 ## Series progress
 
 | Metric | Value |
 |--------|-------|
-| **Days done** | **49 / 100** |
-| **Current streak** | **49** consecutive day folders from Day 1 |
-| **Easy** | 49 |
+| **Days done** | **50 / 100** |
+| **Current streak** | **50** consecutive day folders from Day 1 |
+| **Easy** | 50 |
 | **Medium** | 0 |
 | **Hard** | 0 |
 
@@ -19,7 +19,7 @@ Progress tracker for the **100-day** lightweight Python series in this monorepo.
 
 - [x] Day 10
 - [x] Day 25
-- [ ] Day 50
+- [x] Day 50
 - [ ] Day 75
 - [ ] Day 100
 
@@ -74,8 +74,9 @@ Progress tracker for the **100-day** lightweight Python series in this monorepo.
 - [x] [day-47-percentage-calculator/](./day-47-percentage-calculator/) — Day 47: Percentage Calculator (Easy)
 - [x] [day-48-emi-calculator/](./day-48-emi-calculator/) — Day 48: EMI Calculator (Easy)
 - [x] [day-49-random-decision-maker/](./day-49-random-decision-maker/) — Day 49: Random Decision Maker (Easy)
+- [x] [day-50-to-do-cli/](./day-50-to-do-cli/) — Day 50: To-Do CLI (Easy)
 
-_51 days remaining (day-50 … day-100)._
+_50 days remaining (day-51 … day-100)._
 
 ---
 
