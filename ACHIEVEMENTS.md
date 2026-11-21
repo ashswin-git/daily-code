@@ -2,17 +2,17 @@
 
 Progress tracker for the **100-day** lightweight Python series in this monorepo.
 
-> Last regenerated: 2026-11-20 (Asia/Kolkata calendar date on the box).  
+> Last regenerated: 2026-11-21 (Asia/Kolkata calendar date on the box).  
 > Tip: run `python3 scripts/update_achievements.py` after adding a new `day-*` folder.
 
 ## Series progress
 
 | Metric | Value |
 |--------|-------|
-| **Days done** | **51 / 100** |
-| **Current streak** | **51** consecutive day folders from Day 1 |
+| **Days done** | **52 / 100** |
+| **Current streak** | **52** consecutive day folders from Day 1 |
 | **Easy** | 51 |
-| **Medium** | 0 |
+| **Medium** | 1 |
 | **Hard** | 0 |
 
 ### Milestones
@@ -76,8 +76,9 @@ Progress tracker for the **100-day** lightweight Python series in this monorepo.
 - [x] [day-49-random-decision-maker/](./day-49-random-decision-maker/) — Day 49: Random Decision Maker (Easy)
 - [x] [day-50-to-do-cli/](./day-50-to-do-cli/) — Day 50: To-Do CLI (Easy)
 - [x] [day-51-notes-cli/](./day-51-notes-cli/) — Day 51: Notes CLI (Easy)
+- [x] [day-52-ai-text-summarizer/](./day-52-ai-text-summarizer/) — Day 52: AI Text Summarizer (Medium)
 
-_49 days remaining (day-52 … day-100)._
+_48 days remaining (day-53 … day-100)._
 
 ---
 
