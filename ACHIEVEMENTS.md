@@ -2,17 +2,17 @@
 
 Progress tracker for the **100-day** lightweight Python series in this monorepo.
 
-> Last regenerated: 2026-11-27 (Asia/Kolkata calendar date on the box).  
+> Last regenerated: 2026-11-28 (Asia/Kolkata calendar date on the box).  
 > Tip: run `python3 scripts/update_achievements.py` after adding a new `day-*` folder.
 
 ## Series progress
 
 | Metric | Value |
 |--------|-------|
-| **Days done** | **58 / 100** |
-| **Current streak** | **58** consecutive day folders from Day 1 |
+| **Days done** | **59 / 100** |
+| **Current streak** | **59** consecutive day folders from Day 1 |
 | **Easy** | 51 |
-| **Medium** | 7 |
+| **Medium** | 8 |
 | **Hard** | 0 |
 
 ### Milestones
@@ -83,8 +83,9 @@ Progress tracker for the **100-day** lightweight Python series in this monorepo.
 - [x] [day-56-ai-bio-generator/](./day-56-ai-bio-generator/) — Day 56: AI Bio Generator (Medium)
 - [x] [day-57-ai-email-generator/](./day-57-ai-email-generator/) — Day 57: AI Email Generator (Medium)
 - [x] [day-58-ai-blog-idea-generator/](./day-58-ai-blog-idea-generator/) — Day 58: AI Blog Idea Generator (Medium)
+- [x] [day-59-ai-grammar-checker/](./day-59-ai-grammar-checker/) — Day 59: AI Grammar Checker (Medium)
 
-_42 days remaining (day-59 … day-100)._
+_41 days remaining (day-60 … day-100)._
 
 ---
 
